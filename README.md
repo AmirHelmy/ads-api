@@ -14,4 +14,4 @@
 ### Run Testing
 - `php artisan test`
 
--   [Post man collection](https://www.getpostman.com/collections/9cebaceed656a1a8315a).
+[Post man collection](https://www.getpostman.com/collections/9cebaceed656a1a8315a).
