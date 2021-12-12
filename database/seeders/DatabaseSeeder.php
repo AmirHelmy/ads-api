@@ -17,7 +17,7 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
-        Ad::factory(10)
+        Ad::factory(30)
             ->for(User::factory()->create(), 'advertiser')
             ->has(Tag::factory()->count(3), 'tags')
             ->typed()
