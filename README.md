@@ -8,9 +8,10 @@
 - php artisan queue:work
 -   \* \* \* \* \* cd /path-to-your-project && php artisan schedule:run >> /dev/null 2>&1
 
+
 -  change email configuration variables in .env file
 
-** Test
+** Test **
 - php artisan test 
 
 -   [Post man collection](https://www.getpostman.com/collections/9cebaceed656a1a8315a).
