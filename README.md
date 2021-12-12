@@ -12,6 +12,6 @@
 -  change email configuration variables in .env file
 
 ### Run Testing
-- php artisan test 
+- `php artisan test`
 
 -   [Post man collection](https://www.getpostman.com/collections/9cebaceed656a1a8315a).
